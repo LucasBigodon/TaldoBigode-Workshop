@@ -1,0 +1,5 @@
+Working Directory: ed~ção direta dos arquivos.4
+
+Staging Area (index)
+
+uma cópia do projeto que tem na nuvem, pode criar
